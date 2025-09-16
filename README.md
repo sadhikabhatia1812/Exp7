@@ -2,7 +2,19 @@ Aim:- To write and execute C++ programs using arrays and strings for various app
 
 Theory:-
 Array: A collection of elements of the same data type stored in contiguous memory locations. Accessed via index, starting from 0. Useful for storing lists like marks, numbers, etc.
+
 String: A sequence of characters ending with a null character \0. In C++, strings can be handled as character arrays or using the string class.
+
+Searching
+Linear search is a simple search algorithm that checks each element of the array sequentially until the desired element is found or the list ends.
+
+Minimum and Maximum
+Finding the minimum and maximum involves iterating through all elements and tracking the smallest and largest values.
+
+Sum and Average
+Sum is the total of all elements.
+Average is the sum divided by the number of elements.
+
 Applications: Arrays are used for storing and processing bulk data; strings are used for text manipulation. Common operations include searching, sorting, reversing, and pattern checking.
 
 Algorithm:-
@@ -70,4 +82,7 @@ Algorithm:-
   Display sum and average.
   End.
 
-Conclusion:- By executing these programs, we learned how to use arrays for storing and processing multiple elements efficiently and how to use strings for text manipulation in C++. We implemented common operations like searching, finding min/max, reversing, palindrome checking, and basic calculations. This experiment reinforced understanding of loops, conditional statements, and data storage in C++.
+ Conclusion:-
+These programs demonstrate fundamental programming concepts such as working with arrays and strings in C++. They cover input/output operations, loops, conditional statements, and basic algorithms like searching, finding minimum and maximum values, string reversal, and palindrome checking.
+
+Understanding and practicing these programs helps build a strong foundation in programming logic and problem-solving skills, which are essential for tackling more complex programming tasks.in C++. We implemented common operations like searching, finding min/max, reversing, palindrome checking, and basic calculations. This experiment reinforced understanding of loops, conditional statements, and data storage in C++.
